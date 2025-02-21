@@ -55,6 +55,12 @@ I am a blockchain architect and developer with expertise in Web3, smart contract
 - **Automated faucets** to support testnet environments.
 - **Decentralized exchanges (DEX)** for on-chain trading solutions.
 
+### 🤖 AI Agents & Bots
+- **Custom AI agents** for crypto businesses and Web3 projects.
+- **Discord channel creation and administration**.
+- **NFT games and Telegram games** (similar to Hamster Combat).
+- **Telegram bots and trading bots** for automation.
+
 ## 🏆 Achievements
 - 🏆 **Launched CrestChain, my own PoA blockchain**
 - 🚀 **Developed a tokenization platform with over X users**
@@ -67,4 +73,3 @@ I am a blockchain architect and developer with expertise in Web3, smart contract
 - Twitter: [@GiovannyCubillos](https://twitter.com/GiovannyCubillos)
 
 Thanks for visiting my profile! 🚀
-
