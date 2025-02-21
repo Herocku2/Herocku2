@@ -4,7 +4,7 @@
 # 👋 Hi! I'm Giovanny Cubillos
 
 ## 🚀 About Me
-I am a blockchain architect and developer with expertise in Web3, smart contracts, and asset tokenization. Currently, I am building my own PoA blockchain, **CrestChain**, integrating features from Ethereum, Solana, and Monero to enhance scalability and privacy. I also specialize in real estate tokenization platforms and decentralized applications (dApps).
+I am a blockchain architect and developer with expertise in Web3, smart contracts, and asset tokenization. Currently, I am building my own PoA blockchain and MEMEChain, **CrestChain**, integrating features from Ethereum, Solana, and Monero to enhance scalability and privacy. I also specialize in real estate tokenization platforms and decentralized applications (dApps).
 
 ## 🛠️ Technologies & Tools
 
