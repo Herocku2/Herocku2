@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Giovanny Cubillos
 
 ## 🚀 About Me
-I am a blockchain architect and developer with expertise in Web3, smart contracts, and asset tokenization. Currently, I am building my own PoA blockchain, **MemeChain**, integrating features from Ethereum, Solana, and Monero to enhance scalability and privacy. I also specialize in real estate tokenization platforms and decentralized applications (dApps).
+I am a blockchain architect and developer with expertise in Web3, smart contracts, and asset tokenization. Currently, I am building my own PoA blockchain, **CrestChain**, integrating features from Ethereum, Solana, and Monero to enhance scalability and privacy. I also specialize in real estate tokenization platforms and decentralized applications (dApps).
 
 ## 🛠️ Technologies & Tools
 
@@ -25,11 +25,12 @@ I am a blockchain architect and developer with expertise in Web3, smart contract
 - Integration of **USDT payments on Binance Smart Chain**.
 - Backend powered by **SupaNOVA and Web3.js**.
 
-### 🔗 MemeChain - My Own PoA Blockchain
+### 🔗 CrestChain - My Own PoA Blockchain
 - **Fork of Oasis Network** with enhanced privacy and scalability.
 - **EVM-compatible smart contracts**.
 - Private transactions with optional visibility in smart contracts.
 - Higher **TPS** than Ethereum.
+- **Blockchain Explorer:** [CrestChain Explorer](https://scan.crestchain.pro/)
 
 ### 🏢 Backoffice MML
 - Custom management dashboard for monitoring tokenized real estate assets.
@@ -46,10 +47,15 @@ I am a blockchain architect and developer with expertise in Web3, smart contract
 - **P2P dApps** with non-custodial trading mechanisms.
 - **Web3 integrations** for seamless DeFi interactions.
 
+### 🌉 Bridges, Faucets & DEX
+- **Custom blockchain bridges** for seamless asset transfers.
+- **Automated faucets** to support testnet environments.
+- **Decentralized exchanges (DEX)** for on-chain trading solutions.
+
 ## 💋 Contact
-- GitHub: [GiovannyCubillos](https://github.com/GiovannyCubillos)
-- Twitter: [@GiovannyCubillos](https://twitter.com/GiovannyCubillos)
+- GitHub: [Herocku2](https://github.com/Herocku2/)
 - LinkedIn: [Giovanny Cubillos](https://linkedin.com/in/giovannycubillos)
+- WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/herockudev)
+- Twitter: [@GiovannyCubillos](https://twitter.com/GiovannyCubillos)
 
 Thanks for visiting my profile! 🚀
-
