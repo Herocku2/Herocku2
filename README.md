@@ -56,9 +56,9 @@ I am a blockchain architect and developer with expertise in Web3, smart contract
 - **Decentralized exchanges (DEX)** for on-chain trading solutions.
 
 ## 🏆 Achievements
-- 🏆 **Lanzamiento de CrestChain, mi propia blockchain PoA**
-- 🚀 **Desarrollo de una plataforma de tokenización con más de X usuarios**
-- 💡 **Creación de un bridge interoperable para diferentes blockchains**
+- 🏆 **Launched CrestChain, my own PoA blockchain**
+- 🚀 **Developed a tokenization platform with over X users**
+- 💡 **Created an interoperable bridge for different blockchains**
 
 ## 💋 Contact
 - GitHub: [Herocku2](https://github.com/Herocku2/)
