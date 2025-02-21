@@ -1,3 +1,6 @@
+![Captura de pantalla 2025-02-21 a la(s) 11 07 08 a m](https://github.com/user-attachments/assets/a2ccf8c6-6012-4d33-8d39-66f442087453)
+
+
 # 👋 Hi! I'm Giovanny Cubillos
 
 ## 🚀 About Me
