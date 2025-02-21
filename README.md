@@ -9,7 +9,8 @@ I am a blockchain architect and developer with expertise in Web3, smart contract
 - **Frontend Development**: FlutterFlow, Figma
 - **Cryptocurrencies & DeFi**: Binance Smart Chain, Ethereum, PoA Consensus
 - **Infrastructure & DevOps**: RPC Nodes, Oracle Integration
-https://camo.githubusercontent.com/d616ee81a9a15796baa46c02cac7ab20bd3787fdeee91ce674530f5dd3cf3ec1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6c69646974792d6536653665363f7374796c653d666f722d7468652d6261646765266c6f676f3d736f6c6964697479266c6f676f436f6c6f723d626c61636b
+![Solidity Badge](https://camo.githubusercontent.com/d616ee81a9a15796baa46c02cac7ab20bd3787fdeee91ce674530f5dd3cf3ec1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6c69646974792d6536653665363f7374796c653d666f722d7468652d6261646765266c6f676f3d736f6c6964697479266c6f676f436f6c6f723d626c61636b)
+
 ## 🔥 Featured Projects
 ### 🏠 Real Estate Tokenization Platform
 - Implementation of **ERC-20 and ERC-1155** for real estate transactions.
