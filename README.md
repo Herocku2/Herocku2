@@ -62,7 +62,7 @@ I am a blockchain architect and developer with expertise in Web3, smart contract
 
 ## 💋 Contact
 - GitHub: [Herocku2](https://github.com/Herocku2/)
-- LinkedIn: [Giovanny Cubillos](https://linkedin.com/in/giovannycubillos)
+- LinkedIn: [Giovanny Cubillos](https://linkedin.com/in/giovannycubillosm)
 - WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/herockudev)
 - Twitter: [@GiovannyCubillos](https://twitter.com/GiovannyCubillos)
 
