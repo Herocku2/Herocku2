@@ -9,7 +9,18 @@ I am a blockchain architect and developer with expertise in Web3, smart contract
 - **Frontend Development**: FlutterFlow, Figma
 - **Cryptocurrencies & DeFi**: Binance Smart Chain, Ethereum, PoA Consensus
 - **Infrastructure & DevOps**: RPC Nodes, Oracle Integration
-![Solidity Badge](https://camo.githubusercontent.com/d616ee81a9a15796baa46c02cac7ab20bd3787fdeee91ce674530f5dd3cf3ec1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6c69646974792d6536653665363f7374796c653d666f722d7468652d6261646765266c6f676f3d736f6c6964697479266c6f676f436f6c6f723d626c61636b)
+
+## 🛠️ Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Ethereum](https://img.shields.io/badge/EVM-Ethereum-%236C74CC.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=F7931A)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## 🔥 Featured Projects
 ### 🏠 Real Estate Tokenization Platform
